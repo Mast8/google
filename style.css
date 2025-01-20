@@ -30,6 +30,9 @@ form {
     margin: 25px 35px;
     float: left;
     clear: both;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .field {
